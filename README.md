@@ -1,7 +1,8 @@
 
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
- 
-### <h1>Hi 👋 I'm JOSE BENAVIDES</h1>
+ <img align="right" height="250px" alt="guy" width="250" src="https://github.com/user-attachments/assets/3e7c067d-39b8-43cc-b12f-ed832deea127" /> </a>
+
+
+### <h1>Hi 👋🤖 I'm JOSE BENAVIDES</h1>
 
 > I'm Mechatronics Engineer 🤖
 <br />
