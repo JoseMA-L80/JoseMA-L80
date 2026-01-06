@@ -1,5 +1,5 @@
 
- <img align="right" height="250px" alt="guy" width="250" src="https://github.com/user-attachments/assets/3e7c067d-39b8-43cc-b12f-ed832deea127" /> </a>
+ <img align="right" height="170px" alt="guy" width="170" src="https://github.com/user-attachments/assets/3e7c067d-39b8-43cc-b12f-ed832deea127" /> </a>
 
 
 ### <h1>Hi 👋🤖 I'm JOSE BENAVIDES</h1>
